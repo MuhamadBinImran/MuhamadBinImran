@@ -4,7 +4,8 @@
 <!-- Hi Message -->
 <h1 align="center"> Hi 👋 I'm Muhammad Bin Imran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer;Proficient%20in%3A%20C%2B%2B%2C%20Python%2C%20JavaScript%2C%20SQL%2C%20MERN%20Stack%2C%20FastAPI%2C%20Streamlit;Final%20Year%20Student%20at%20FAST%20University%20-%20Expected%20Graduation%20in%20June%202025;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack%20Developer%20%26%20AI%2FML%20Engineer;Proficient%20in%3A%20C%2B%2B%2C%20Python%2C%20JavaScript%2C%20SQL%2C%20MERN%20Stack%2C%20FastAPI%2C%20Streamlit%2C%20Scikit-learn%2C%20TensorFlow;Final%20Year%20Student%20at%20FAST%20University%20-%20Expected%20Graduation%20in%20June%202025;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+
 </p>
 
 
