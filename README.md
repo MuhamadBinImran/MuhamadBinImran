@@ -77,9 +77,9 @@
 
 <div align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Hassan Haseen's Github Stats"/><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=hassanhaseen&theme=gotham&hide_border=true" alt="Hassan Haseen's Github Stats"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhaseen&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Hassan Haseen's Github Stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhamadBinImran&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="Muhammd's Github Stats"/><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=MuhamadBinImran&theme=gotham&hide_border=true" alt="Muhammd's Github Stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadBinImran&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Muhammd's Github Stats"/><br/>
   </a>
 </div>
 <br>
@@ -90,7 +90,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{hassanhaseen}/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/{MuhamadBinImran}/count.svg" alt="Visitor Count"/>
 </div>
 <br>
 <!-- Github Trophies -->
@@ -101,7 +101,7 @@
 
 <div align="center">
   <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=hassanhaseen&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MuhamadBinImran&theme=apprentice&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Github Trophies"/>
   </a>
 </div>
 <br>
