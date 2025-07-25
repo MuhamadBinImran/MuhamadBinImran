@@ -4,15 +4,18 @@
 <!-- Hi Message with Typing Animation -->
 <h1 align="center"> Hi there, I'm Muhammad Bin Imran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/muhamadbinimran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Open+Source+Contributor"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Open+Source+Contributor" alt="Typing animation titles">
   </a>
-</p>
+</div>
 
 <!-- Right Side GIF -->
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="35%" height="45%" alt="AI Working GIF"/>
+<p align="right">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250" alt="AI Working GIF"/>
+</p>
 
+<!-- About Me -->
 ### 📄 About Me:
 
 - 🎓 **FAST National University** - BSCS Graduate (2025)
@@ -25,8 +28,8 @@
 ---
 
 <!-- Socials -->
-<h2 align="center">Connect with Me 🤝</h2>
-<p align="center">
+<h2 align="center">🤝 Connect with Me</h2>
+<div align="center">
   <a href="https://linkedin.com/in/muhammad-bin-imran"><img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="50"/></a>
   <a href="mailto:muhammadbinimran1000@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"/></a>
   <a href="https://github.com/muhamadbinimran"><img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="50"/></a>
@@ -35,7 +38,7 @@
   <a href="https://youtube.com/@muhammadbinimran"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="50"/></a>
   <a href="https://facebook.com/muhammadbinimran1000"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"/></a>
   <a href="https://discordapp.com/users/6645479274699781"><img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="50"/></a>
-</p>
+</div>
 
 ---
 
@@ -82,9 +85,12 @@
 ---
 
 <!-- Thank You -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+👋" alt="Thanks for visiting!" />
-</h2>
+<h2 align="center">Thanks for Visiting!</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300" alt="Thanks for visiting sticker" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+👋" alt="Thanks for visiting typing animation" />
+</p>
 
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=120&section=footer"/>
