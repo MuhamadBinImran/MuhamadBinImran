@@ -4,11 +4,9 @@
 <!-- Hi Message with Typing Animation -->
 <h1 align="center"> Hi there, I'm Muhammad Bin Imran! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
-<div align="center">
-  <a href="https://github.com/muhamadbinimran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Open+Source+Contributor" alt="Typing animation titles">
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=600&center=true&vCenter=true&lines=Full+Stack+Developer;AI%2FML+Engineer;Generative+AI+Enthusiast;Open+Source+Contributor" alt="Typing animation titles">
+</p>
 
 <!-- Right Side GIF -->
 <p align="right">
@@ -63,7 +61,7 @@
 <!-- Visitors Count -->
 <h2 align="center">🛎️ Visitor Count</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/MuhamadBinImran/count.svg" />
+  <img src="https://github-vistors-counter.onrender.com/github?username=MuhamadBinImran&style=flat-square&color=blue" alt="Visitors-Counter" />
 </p>
 
 ---
@@ -87,10 +85,7 @@
 <!-- Thank You -->
 <h2 align="center">Thanks for Visiting!</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300" alt="Thanks for visiting sticker" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!+👋" alt="Thanks for visiting typing animation" />
-</p>
+  </p>
 
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=120&section=footer"/>
