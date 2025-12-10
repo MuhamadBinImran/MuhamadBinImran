@@ -22,9 +22,6 @@
 - 🤗 MERN, Laravel, FastAPI, Hugging Face, LangChain
 - ✉️ Reach out: **muhammadbinimran1000@gmail.com**
 - 🌟 Fun: PC Gaming, Netflix, Badminton
-- <a href="https://muhammadbinimran.vercel.app/" target="_blank">
-    <strong>👉 Visit My Portfolio</strong>
-  </a>
 
 ---
 
